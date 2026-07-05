@@ -9,7 +9,7 @@
 
 ### 💻 Software Engineering Enthusiast • AI & ML Learner • Data Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=900&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Future+Software+Engineer;Java+Developer;Python+Enthusiast;Learning+DSA+Every+Day;AI+%7C+Machine+Learning;Never+Stop+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Future+Software+Engineer;Java+Developer;Python+Enthusiast;Learning+DSA+Every+Day;AI+%26+Machine+Learning;Never+Stop+Learning+🚀" />
 
 <br>
 
